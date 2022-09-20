@@ -1,0 +1,19 @@
+{
+    "name": "rakhasa/core-service",
+    "description": "test",
+    "type": "library",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Rakhasa\\CoreService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dragon Plunker",
+            "email": "dragonplunker@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
